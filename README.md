@@ -1,3 +1,4 @@
+# Intro
 Hi there 👋
 I am interested in robotics
 
@@ -36,6 +37,7 @@ Here is the guide for using my code repo
 1. [tracker setting](https://github.com/ChangerC77/UltimateTracker_python)
 
 ## sensors
-### realsense (d405, d435)
-1. [collectRGB](https://github.com/ChangerC77/collect_RGBD)
+1. [collectRGB](https://github.com/ChangerC77/collect_RGBD) (d405, d435)
 
+## Grippers
+1. [robotiq](https://github.com/ChangerC77/Robotiq-Gripper)
