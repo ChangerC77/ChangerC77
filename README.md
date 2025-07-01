@@ -1,10 +1,17 @@
 # Intro
-Hi there 👋
-I am interested in robotics
-
-I am currently a research intern at AIR Innovation Center, Tsinghua University
+I am an incoming Mphil at the Hong Kong University of Science and Technology (Guangzhou), I am currently a research intern at AIR Innovation Center, Tsinghua University.
 
 You might want to check my personal website at https://changerc77.github.io/
+
+I am interested in robotics
+
+Research Interest: 
++ Robotics
++ Embodied AI
++ Manipulation
++ VLA
++ Tactile
++ Mapping and Navigation
 
 Here is the guide for using my code repo
 
@@ -41,3 +48,7 @@ Here is the guide for using my code repo
 
 ## Grippers
 1. [robotiq](https://github.com/ChangerC77/Robotiq-Gripper)
+
+## Tactile sensors
+1. [Dexhand2_pro](https://github.com/ChangerC77/Dexhand2_Pro)
+2. [xensesdk](https://github.com/ChangerC77/xensesdk)
