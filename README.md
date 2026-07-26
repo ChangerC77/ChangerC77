@@ -20,6 +20,9 @@ I'm <span class="accent-text">Xiangyu CHEN</span>, a first-year MPhil student at
   </div>
 </div>
 
+## homepage
+You might want to check my personal website at https://changerc77.github.io/
+
 # Robotics 
 ## robot arm
 ### Franka 
